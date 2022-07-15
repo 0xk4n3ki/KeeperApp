@@ -1,3 +1,3 @@
 # KeeperApp
-Created with CodeSandbox
+Created with CodeSandbox.
 Just a frontend App using React.js
